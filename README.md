@@ -21,3 +21,21 @@
 É comum ao estar desenvolvendo uma API, imaginar como esses dados vão estar sendo utilizados pelo cliente web e/ou mobile.
 
 Por isso, deixamos abaixo o link para o layout da aplicação que utilizaria essa API.
+
+### Pacotes a ser utilizados
+- Dependencia de desenvolvimento
+  - typescript
+  - tsx
+  - tsup
+  - eslint
+  - prisma
+  - vite-tsconfig-paths
+  - vitest
+- Dependencia
+  - fastify - micro framework 
+  - bcryptjs
+  - dotenv
+  - zod 
+
+
+
